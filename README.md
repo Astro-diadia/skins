@@ -8,7 +8,7 @@ replcace the code in customeskinloader.json with following one
       "name": "LocalSkin",
       "type": "Legacy",
       "checkPNG": false,
-      "skin": "https://raw.github.com/Astro-diadia/skins/main/{USERNAME}.png",
+      "skin": "https://raw.github.com/Astro-diadia/skins/main/Hamon159.png",
       "model": "auto",
       "cape": "https://raw.githubusercontent.com/Astro-diadia/skins/main/{USERNAME}_cape.png",
       "elytra": "https://raw.githubusercontent.com/Astro-diadia/skins/main/{USERNAME}_elytra.png"
