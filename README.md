@@ -1,7 +1,4 @@
-{
-  "version": "14.27",
-  "buildNumber": 37,
-  "loadlist": [
+coppy this:
     {
       "name": "LocalSkin",
       "type": "Legacy",
@@ -11,16 +8,6 @@
       "cape": "https://raw.github.com/Astro-diadia/skins/main/{USERNAME}_cape.png",
       "elytra": "https://raw.github.com/Astro-diadia/skins/main/{USERNAME}_elytra.png"
     }
-  ],
-  "enableDynamicSkull": true,
-  "enableTransparentSkin": true,
-  "forceLoadAllTextures": true,
-  "enableCape": true,
-  "threadPoolSize": 8,
-  "enableLogStdOut": false,
-  "cacheExpiry": 30,
-  "forceUpdateSkull": false,
-  "enableLocalProfileCache": false,
-  "enableCacheAutoClean": false,
-  "forceDisableCache": false
-}
+
+and paste it instead of loadlist,
+in the <your_launcher>/versions/<your_version>/CustomSkinLoader/CustomSkinLoader.json
